@@ -1,0 +1,119 @@
+Package: freecwmp
+Version: 2014-06-12-8f3c163fc85337e63bfa64da3c02f10d1fe3b169
+Depends: libc, libcurl, libfreecwmp, libuci, libubox, libubus, libmicroxml, shflags
+Source: feeds/management/freecwmp
+License: GPL-2.0+
+Section: utils
+Maintainer: Luka Perkov <luka@openwrt.org>
+Architecture: realtek
+Installed-Size: 451
+Filename: freecwmp_2014-06-12-8f3c163fc85337e63bfa64da3c02f10d1fe3b169_realtek.ipk
+Size: 1108
+MD5Sum: 25309d232d50af17ee5c3f9428fc857d
+SHA256sum: 13b328098eae9d29313fd211eda8a03511cbabd8503a382d1bf08187ed717099
+Description:  A free client implementation of CWMP (TR-069) protocol
+
+Package: freenetconfd-plugin-examples
+Version: 2015-06-28-4a5dd9be91aae502b3f6a930558159d4ee6a775a
+Depends: libc, freenetconfd
+Source: feeds/management/freenetconfd-plugin-examples
+License: GPL-2.0+
+Section: utils
+Maintainer: Luka Perkov <luka@openwrt.org>
+Architecture: realtek
+Installed-Size: 1408
+Filename: freenetconfd-plugin-examples_2015-06-28-4a5dd9be91aae502b3f6a930558159d4ee6a775a_realtek.ipk
+Size: 2009
+MD5Sum: f454543812626a6b7ce03e5e8d7c369d
+SHA256sum: 36aa013c523990a228002c0afbae42adee3135749c1fa67237637868d54b571b
+Description:  freenetconfd example plugins
+
+Package: freenetconfd
+Version: 2015-11-12-9b4dc3f45982ac9ede2db2218f5578f7268528ba
+Depends: libc, libuci, libubox, libubus, libroxml
+Source: feeds/management/freenetconfd
+License: GPL-2.0+
+Section: utils
+Maintainer: Luka Perkov <luka@openwrt.org>
+Architecture: realtek
+Installed-Size: 566
+Filename: freenetconfd_2015-11-12-9b4dc3f45982ac9ede2db2218f5578f7268528ba_realtek.ipk
+Size: 1221
+MD5Sum: 7a014831b63a417781fa2904bedd40ff
+SHA256sum: dace54f582ddfd673b293abc6c9ac26c28d6a4653a181678fb5ceacaa6920b07
+Description:  netconf server
+
+Package: freesub
+Version: 2014-12-03-a1a38e80c6642af723d6aa65f64910dcf27cb3da
+Depends: libc, libubox
+Source: feeds/management/freesub
+License: GPL-2.0+
+Section: utils
+Maintainer: Luka Perkov <luka@openwrt.org>
+Architecture: realtek
+Installed-Size: 2746
+Filename: freesub_2014-12-03-a1a38e80c6642af723d6aa65f64910dcf27cb3da_realtek.ipk
+Size: 3353
+MD5Sum: f54ba62c82771eb91f95fd107250717a
+SHA256sum: 30f9df68ff483ef233fe36f93b356030fa1e98d31c99830b51a7b2d1bb61bb3c
+Description:  SSH subsystem helper
+
+Package: libfreecwmp
+Version: 2014-06-12-d2fdd97d66fde14859c06228a922066d9e8b669b
+Depends: libc
+Source: feeds/management/libfreecwmp
+License: GPL-2.0+
+Section: libs
+Maintainer: Luka Perkov <luka@openwrt.org>
+Architecture: realtek
+Installed-Size: 140
+Filename: libfreecwmp_2014-06-12-d2fdd97d66fde14859c06228a922066d9e8b669b_realtek.ipk
+Size: 710
+MD5Sum: aceb96b804c93b00daca1bb0e162aca9
+SHA256sum: 1173cbad71be614bc02a708694e86b6377cfd6c4adc350456303de62696afa4b
+Description:  CWMP library
+
+Package: libmicroxml
+Version: 2012-06-11-72965423184f24cc0b963d91c2d1863cdb01b6aa
+Depends: libc
+Source: feeds/management/libmicroxml
+Section: libs
+Maintainer: Luka Perkov <luka@openwrt.org>
+Architecture: realtek
+Installed-Size: 140
+Filename: libmicroxml_2012-06-11-72965423184f24cc0b963d91c2d1863cdb01b6aa_realtek.ipk
+Size: 700
+MD5Sum: 2c57c6f9336c52defee7efa4313569de
+SHA256sum: 4ce0e6ac37da886b775c7ae7f1559971e17dfa22f0343efe6d7439fda515b44c
+Description:  A micro sized XML library
+
+Package: shflags
+Version: 2012-06-11-c12b30cebb92b49c5edb6df255c0952c65b4ddc6
+Depends: libc, getopt
+Source: feeds/management/shflags
+License: LGPL-2.1
+Section: libs
+Maintainer: Luka Perkov <luka@openwrt.org>
+Architecture: realtek
+Installed-Size: 4297
+Filename: shflags_2012-06-11-c12b30cebb92b49c5edb6df255c0952c65b4ddc6_realtek.ipk
+Size: 4903
+MD5Sum: 3be3884b683d54ca5bc0dccc0723e1a0
+SHA256sum: f79c1acb701203fa3d9b03e49c3c249d24145e0c479aed7072122464ecb9053f
+Description:  command-line flags module for Unix shell scripts
+
+Package: shtool
+Version: 2.0.8-1
+Depends: libc
+Source: feeds/management/shtool
+License: GPL-2.0+
+Section: utils
+Architecture: realtek
+Installed-Size: 32095
+Filename: shtool_2.0.8-1_realtek.ipk
+Size: 32751
+MD5Sum: 48fa05583e3818076989ffd103abf720
+SHA256sum: 706016a1559509194173119c03e952258b133661a697022f491550940d0373c2
+Description:  GNU shtool is a compilation of small but very stable and portable shell
+ scripts into a single shell tool.
+
