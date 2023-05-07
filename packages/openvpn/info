@@ -1,1 +1,6 @@
-The new packages for openvpn
+The new packages for openvpn.
+
+ cd /tmp
+ wget https://github.com/Vyacheslav-S/packages-openwrt-rtk819/raw/main/packages/openvpn/openvpn-openssl_2.5.3-4_realtek.ipk
+ wget https://github.com/Vyacheslav-S/packages-openwrt-rtk819/raw/main/packages/openvpn/libopenssl_1.0.2t-1_realtek.ipk
+ opkg install libopenssl_1.0.2t-1_realtek.ipk openvpn-openssl_2.5.3-4_realtek.ipk
